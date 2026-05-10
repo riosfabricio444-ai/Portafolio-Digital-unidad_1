@@ -20,11 +20,11 @@ Es un enunciado o sentencia declarativa de la cual se puede afirmar, de forma in
  ### **Conectores lógicos**
  
 Son símbolos que sirven para enlazar proposiciones simples y alterar su valor de verdad:
-- Negación (\lnot): Invierte el valor de verdad ("no").
-- Conjunción (\land): Solo es verdadera si ambas partes lo son ("y").
-- Disyunción (\vee): Es verdadera si al menos una parte lo es ("o").
-- Condicional (\longrightarrow): Indica que, si ocurre un antecedente, entonces ocurre un consecuente ("si... entonces").
-- Bicondicional (\longleftrightarrow): Es verdadera solo si ambas partes tienen el mismo valor de verdad ("si y solo si").
+- *Negación (¬):* Invierte el valor de verdad ("no").
+- *Conjunción (∧):* Solo es verdadera si ambas partes lo son ("y").
+- *Disyunción (∨):* Es verdadera si al menos una parte lo es ("o").
+- *Condicional (→):* Indica que, si ocurre un antecedente, entonces ocurre un consecuente ("si... entonces").  
+- *Bicondicional ($\leftrightarrow$):* Es verdadera solo si ambas partes tienen el mismo valor de verdad ("si y solo si").
 
 ### **Explicación de tablas de verdad**
 
