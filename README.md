@@ -7,13 +7,28 @@
 ## Indice
 
 1. [Resumen Teórico](#-1.-resumen-teorico)
-  
+- [1. Definición de proposición](1.-definicion-de-proposicion)
+- [2. Tipos de proposiciones](2.-tipos-de-proposiciones)
+- [3. Conectores lógicos](3.-conectores-logicos)
+- [4. Explicación de tablas de verdad](4.-explicacion-de-tablas-de-verdad)
+- [5. Principales leyes lógicas](5.-principales-leyes-logicas)
+- [6. Reglas de inferencia](6.-reglas-de-inferencia)
 2. [Ejercicios Resueltos](#-2-ejercicios-resueltos)
-  
+- [1. Traducción de lenguaje natural a simbólico](1.-traduccion-de-lenguaje-natural-a-simbolico)
+- [2. Construcción de tablas de verdad](2.-construccion-de-tablas-de-verdad)
+- [3. Identificación de tautologías, contradicciones y contingencias](3.-identificacion-de-tautologias,-contradicciones-y-contingencias)
+- [4. Aplicación de leyes proposicionales](4.-aplicacion-de-leyes-proposionales)
+- [5. Validación de argumentos](5.-validacion-de-argumentos)
 3. [Ejercicio aplicado (caso real o cotidiano)](ejercicio-aplicado-(caso-real-o-cotidiano))
-  
+- [1.	Plantear un problema de la vida real](1.-plantear-un-problema-de-la-vida-real)
+- [2.	Definir proposiciones](2.-definir-proposisiones)
+- [3.	Expresar simbólicamente](3.-expresar-simbolicamente)
+- [4.	Analizar con lógica proposicional](4.-analizar-con-logica-proposicional)
+- [5.	Concluir resultados](5.-concluir-resultados)
 4. [Reflexión personal](reflexion-personal)
-
+- [1. ¿Qué fue lo más difícil de entender?](1.-¿que-fue-lo-más-difícil-de-entender?)
+- [2. ¿Qué tema comprendí mejor?](2.-¿que-tema-comprendí-mejor?)
+- [3. ¿Cómo puedo aplicar la lógica en mi carrera?](3.-¿como-puedo-aplicar-la-lógica-en-mi-carrera?)
 ## 1. Resumen teórico
 
 **1. Definición de proposición**
