@@ -29,6 +29,7 @@
 - [1. ¿Qué fue lo más difícil de entender?](1.-¿que-fue-lo-más-difícil-de-entender?)
 - [2. ¿Qué tema comprendí mejor?](2.-¿que-tema-comprendí-mejor?)
 - [3. ¿Cómo puedo aplicar la lógica en mi carrera?](3.-¿como-puedo-aplicar-la-lógica-en-mi-carrera?)
+
 ## 1. Resumen teórico
 
 **1. Definición de proposición**
