@@ -7,7 +7,7 @@
 ## Indice
 
 1. [Resumen Teórico](#1-resumen-teórico)
--  [1. Definición de proposición](#1%20definición%20de%20proposición)
+-  [1. Definición de proposición](#1-definición-de-proposición)
 - [2. Tipos de proposiciones](#2-tipos-de-proposiciones)
 - [3. Conectores lógicos](#3-conectores-lógicos)
 - [4. Explicación de tablas de verdad](#4-explicación-de-tablas-de-verdad)
@@ -21,7 +21,7 @@
 - [5. Validación de argumentos](#5.-validación-de-argumentos)
 3. [Ejercicio Aplicado (caso real o cotidiano)](#3-ejercicio-aplicado-(caso-real-o-cotidiano))
 - [1.	Plantear un problema de la vida real](#1-plantear-un-problema-de-la-vida-real)
-- [2.	Definir proposiciones](#2-definir-proposisiones)
+- [2.Definir proposiciones](#2-definir-proposiciones)
 - [3.	Expresar simbólicamente](#3-expresar-simbólicamente)
 - [4.	Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
 - [5.	Concluir resultados](#5-concluir-resultados)
