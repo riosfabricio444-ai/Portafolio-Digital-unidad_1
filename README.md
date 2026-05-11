@@ -7,7 +7,7 @@
 ## Indice
 
 1. [Resumen Teórico](#1-resumen-teórico)
-- [1. Definición de proposición](#1-definición-de-proposicion)
+-  [1. Definición de proposición](#1%20definición%20de%20proposición)
 - [2. Tipos de proposiciones](#2-tipos-de-proposiciones)
 - [3. Conectores lógicos](#3-conectores-lógicos)
 - [4. Explicación de tablas de verdad](#4-explicación-de-tablas-de-verdad)
