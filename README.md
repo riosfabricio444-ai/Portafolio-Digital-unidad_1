@@ -68,6 +68,8 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 
 **1. Traducción de lenguaje natural a simbólico**
 
+https://github.com/riosfabricio444-ai/APE-1..git
+
 **2. Construcción de tablas de verdad**
 
 https://github.com/riosfabricio444-ai/APE-2..git
