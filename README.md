@@ -1,13 +1,12 @@
 <div align="center">
   
 # Portafolio-Digital-unidad_1
-## Contenidos de la unidad 1
+## Contenidos de la unidad-1
 </div>
 
 ## Indice
-
 1. [Resumen Teórico](#1-resumen-teórico)
--  [1. Definición de proposición](#1.-definición-de-proposición)
+-  [1. Definición de proposición](#definicion-de-proposicion)
 -  [2. Tipos de proposiciones](#2-tipos-de-proposiciones)
 -  [3. Conectores lógicos](#3-conectores-lógicos)
 -  [4. Explicación de tablas de verdad](#4-explicación-de-tablas-de-verdad)
@@ -26,7 +25,7 @@
 - [4.	Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
 - [5.	Concluir resultados](#5-concluir-resultados)
 4. [Reflexión personal](#4-reflexión-personal)
-- [1. ¿Qué fue lo más difícil de entender?](#1-¿qué-fue-lo-más-difícil-de-entender?)
+- [1. ¿Qué fue lo más difícil de entender?](#1-qué-fue-lo-más-difícil-de-entender)
 - [2. ¿Qué tema comprendí mejor?](#2-¿qué-tema-comprendí-mejor?)
 - [3. ¿Cómo puedo aplicar la lógica en mi carrera?](#3-¿cómo-puedo-aplicar-la-lógica-en-mi-carrera?)
 
