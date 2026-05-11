@@ -70,7 +70,7 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 
 **2. Construcción de tablas de verdad**
 
-https://drive.google.com/file/d/10e8ZXGa0qj8c2Lf1ctzzkRmYyEt7UJDd/view?usp=drive_link
+https://github.com/riosfabricio444-ai/APE-2..git
 
 **3. Identificación de tautologías, contradicciones y contingencias**
 
