@@ -19,7 +19,7 @@
 - [3. Identificación de tautologías, contradicciones y contingencias](#3-identificación-de-tautologías,-contradicciones-y-contingencias)
 - [4. Aplicación de leyes proposicionales](#4-aplicación-de-leyes-proposionales)
 - [5. Validación de argumentos](#5.-validación-de-argumentos)
-3. [Ejercicio aplicado (caso real o cotidiano)](#ejercicio-aplicado-(caso-real-o-cotidiano))
+3. [Ejercicio Aplicado (caso real o cotidiano)](#3-ejercicio-aplicado-(caso-real-o-cotidiano))
 - [1.	Plantear un problema de la vida real](#1-plantear-un-problema-de-la-vida-real)
 - [2.	Definir proposiciones](#2-definir-proposisiones)
 - [3.	Expresar simbólicamente](#3-expresar-simbólicamente)
@@ -86,13 +86,13 @@ https://github.com/riosfabricio444-ai/APE.-2..git
 
 https://github.com/riosfabricio444-ai/APE5..git
 
-## 3. Ejercicio aplicado (caso real o cotidiano)
+## 3. Ejercicio Aplicado (caso real o cotidiano)
 
-**1.	Plantear un problema de la vida real**
+**1. Plantear un problema de la vida real**
 
 En el sistema de inscripciones de la carrera de Computación, se ha programado la siguiente condición: No es cierto que (si el estudiante tiene deudas entonces no puede matricularse), o que el estudiante sea de primer ciclo.
 
-**2.	Definir proposiciones**
+**2. Definir proposiciones**
 
 Asignamos una variable a cada idea principal:
 
@@ -102,7 +102,7 @@ q: El estudiante puede matricularse.
 
 r: El estudiante es de primer ciclo.
 
-**3.	Expresar simbólicamente**
+**3. Expresar simbólicamente**
 
 Traducimos el lenguaje natural a lógica formal:
 
