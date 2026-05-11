@@ -25,7 +25,7 @@
 - [3.	Expresar simbólicamente](#3-expresar-simbólicamente)
 - [4.	Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
 - [5.	Concluir resultados](#5-concluir-resultados)
-4. [Reflexión personal](#reflexión-personal)
+4. [Reflexión personal](#4-reflexión-personal)
 - [1. ¿Qué fue lo más difícil de entender?](#1-¿qué-fue-lo-más-difícil-de-entender?)
 - [2. ¿Qué tema comprendí mejor?](#2-¿qué-tema-comprendí-mejor?)
 - [3. ¿Cómo puedo aplicar la lógica en mi carrera?](#3-¿cómo-puedo-aplicar-la-lógica-en-mi-carrera?)
