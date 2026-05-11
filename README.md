@@ -6,7 +6,10 @@
 
 ## Indice
 
-1. [Resumen Teórico](#1-resumen-teorico)
+[1. Resumen Teórico](#1-resumen-teorico)
+
+
+hhhh
 - [1. Definición de proposición](#1-definicion-de-proposicion)
 - [2. Tipos de proposiciones](#2-tipos-de-proposiciones)
 - [3. Conectores lógicos](#3-conectores-logicos)
@@ -51,7 +54,7 @@ Son símbolos que sirven para enlazar proposiciones simples y alterar su valor d
 
 Es un método gráfico que sirve para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles de valores de sus componentes. Permite clasificar los resultados en Tautología (todo verdadero), Contradicción (todo falso) o Contingencia (mezcla de ambos).
 
-**5. Principales leyes lógicas**
+**\5. Principales leyes lógicas**
 
 Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado.
 
