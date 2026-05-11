@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1UJHzVfCyLedDnOUBrx3tn9uU8pxF4kie/view?usp=drive
 
 **4. Aplicación de leyes proposicionales**
 
-https://drive.google.com/file/d/1iVS4ALViEkQkySqZpsW-CnPdIFe24kTj/view?usp=drive_link
+https://github.com/riosfabricio444-ai/APE.-2..git
 
 **5. Validación de argumentos**
 
