@@ -1,3 +1,27 @@
+## Indice
+1. [Resumen Teórico](#1-resumen-teórico)
+    - [1. Definición de proposición](#1-definición-de-proposición)
+    - [2. Tipos de proposiciones](#2-tipos-de-proposiciones)
+    - [3. Conectores lógicos](#3-conectores-lógicos)
+    - [4. Explicación de tablas de verdad](#4-explicación-de-tablas-de-verdad)
+    - [5. Principales leyes lógicas](#5-principales-leyes-lógicas)
+    - [6. Reglas de inferencia](#6-reglas-de-inferencia)
+2. [Ejercicios Resueltos](#2-ejercicios-resueltos)
+    - [1. Traducción de lenguaje natural a simbólico](#1-traducción-de-lenguaje-natural-a-simbólico)
+    - [2. Construcción de tablas de verdad](#2-construcción-de-tablas-de-verdad)
+    - [3. Identificación de tautologías, contradicciones y contingencias](#3-identificación-de-tautologías-contradicciones-y-contingencias)
+    - [4. Aplicación de leyes proposicionales](#4-aplicación-de-leyes-proposicionales)
+    - [5. Validación de argumentos](#5-validación-de-argumentos)
+3. [Ejercicio Aplicado (caso real o cotidiano)](#3-ejercicio-aplicado-caso-real-o-cotidiano)
+    - [1. Plantear un problema de la vida real](#1-plantear-un-problema-de-la-vida-real)
+    - [2. Definir proposiciones](#2-definir-proposiciones)
+    - [3. Expresar simbólicamente](#3-expresar-simbólicamente)
+    - [4. Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
+    - [5. Concluir resultados](#5-concluir-resultados)
+4. [Reflexión personal](#4-reflexión-personal)
+    - [1. ¿Qué fue lo más difícil de entender?](#1-qué-fue-lo-más-difícil-de-entender)
+    - [2. ¿Qué tema comprendí mejor?](#2-qué-tema-comprendí-mejor)
+    - [3. ¿Cómo puedo aplicar la lógica en mi carrera?](#3-cómo-puedo-aplicar-la-lógica-en-mi-carrera)
 <div align="center">
   
 # Portafolio-Digital-unidad_1
